@@ -1,26 +1,24 @@
 <h1 align="center">Hi, I'm Ruth Kober 👋</h1>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=header&text=Software%20Practical%20Engineer&fontSize=25&animation=fadeIn" />
-</div>
+<br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25"><b> Languages and Tools</b>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,angular,python&perline=9)]()
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,angular,python,java,cs&perline=9)]()
 <br>
-[![My Skills](https://skillicons.dev/icons?i=java,cs,dotnet,nodejs,postman,mongodb,mysql,postgres,sqlite&perline=9)]()
+[![My Skills](https://skillicons.dev/icons?i=nodejs,dotnet,maven,mysql,mongodb,postgres,sqlite,postman,git&perline=9)]()
 <br>
-[![My Skills](https://skillicons.dev/icons?i=git,github,bitbucket,aws,vscode,visualstudio,idea,pycharm)]()
+[![My Skills](https://skillicons.dev/icons?i=github,bitbucket,aws,vscode,visualstudio,idea,pycharm)]()
 <br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rut1122&show_icons=true&theme=transparent&border_radius=10&title_color=0077B5&icon_color=0077B5)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rut1122&show_icons=true&theme=transparent&border_radius=10)
 <br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=rut1122&theme=transparent&border_radius=10&date_format=j%20M%5B%20Y%5D&stroke=0077B5&fire=0077B5)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rut1122&theme=transparent&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rut1122&layout=compact&theme=transparent&title_color=0077B5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rut1122&layout=compact&theme=transparent)
 
 ---
 
