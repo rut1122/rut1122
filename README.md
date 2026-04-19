@@ -8,11 +8,29 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,angular,python,java,cs&perline=9)]()
-<br>
-[![My Skills](https://skillicons.dev/icons?i=dotnet,nodejs,postman,mongodb,mysql,postgres,sqlite,git,github&perline=9)]()
-<br>
-[![My Skills](https://skillicons.dev/icons?i=bitbucket,aws,vscode,visualstudio,idea,pycharm)]()
+<p align="left">
+  <img src="https://getlogovector.com/wp-content/uploads/2021/01/html5-logo-vector.png" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/he/4/4e/Java_Logo.svg" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" width="40" height="40" />
+  <br><br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="70" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/he/d/d3/Postman-logo.png" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" width="80" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_classic.svg" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" width="70" height="40" />
+  <br><br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Git-logo.svg" width="60" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" width="40" height="40" />
+</p>
 
 <br>
 
@@ -23,10 +41,6 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=rut1122&show_icons=true&theme=transparent&title_color=0077B5&icon_color=0077B5&hide_border=true" width="48%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rut1122&layout=compact&theme=transparent&title_color=0077B5&hide_border=true" width="45%">
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=rut1122&theme=transparent&hide_border=true&stroke=0077B5&ring=0077B5&fire=0077B5" width="100%">
 </p>
 
 ---
