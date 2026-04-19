@@ -1,30 +1,30 @@
-# Hi, I'm Ruth Kober 👋
+<h1 align="center">Hi, I'm Rואי Kober<h1>
 
-### Software Practical Engineer | QA & Automation Specialist | ISTQB® Certified
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-I am a detail-oriented Software Practical Engineer with a strong passion for software quality and automation. With a solid foundation in Fullstack development and a certification in ISTQB, I bridge the gap between clean code and rigorous testing.
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools</b>
 
----
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,styledcomponents,js,typescript,react,angular,python&perline=9)]()
+<br>
+[![My Skills](https://skillicons.dev/icons?i=java,cs,dotnet,python,nodejs,postman,mongodb,git&perline=8)]()
+<br>
+[![My Skills](https://skillicons.dev/icons?i=bitbucket,aws,postgres,sqlite,vscode,visualstudio,idea,pycharm)]()
+<br>
 
-### 🛠 Languages and Tools
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
-<p align="left">
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,angular,py,java,cs,dotnet,nodejs,postman,mongodb,git,aws,mysql,vscode,visualstudio,idea,pycharm&theme=light" />
-</a>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MichalFog&show_icons=true&theme=transparent&border_radius=10&perline=9)
+<br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=MichalFog&theme=transparent&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<br>
 
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichalFog&layout=compact&theme=dark)
 
-### 📊 Github Stats
+[![](https://visitcount.itsvg.in/api?id=MichalFog.v&icon=0&theme=dark&border_radius=10)](https://visitcount.itsvg.in)
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=rut1122&show_icons=true&theme=radical" alt="rut1122's github stats" />
-</p>
+<div align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
 
----
 
-### 📫 Connect with me
-<p align="left">
-<a href="mailto:Ruth471916@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+
