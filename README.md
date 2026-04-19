@@ -1,43 +1,40 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=150&section=header&text=Ruth%20Kober&fontSize=50&animation=fadeIn&fontAlignY=35" />
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0077B5&center=true&vCenter=true&width=435&lines=QA+Automation+Engineer;Software+Practical+Engineer;Fullstack+Development;ISTQB®+Certified" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0077B5&center=true&vCenter=true&width=435&lines=QA+Automation+Engineer;Software+Practical+Engineer;Fullstack+Development;ISTQB®+Certified" />
 </div>
+
+---
 
 ## 🛠️ Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,angular,py,java,cs&perline=9)](https://skillicons.dev)
-<br>
+### 🌐 Frontend & Languages
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,py,java,cs&theme=dark" />
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,dotnet,maven,mysql,mongodb,postgres,sqlite&perline=7)](https://skillicons.dev)
-<br>
+### ⚙️ Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,dotnet,mysql,mongodb,postgres,sqlite&theme=dark" />
 
-[![My Skills](https://skillicons.dev/icons?i=postman,git,github,aws,vscode,visualstudio,idea,pycharm)](https://skillicons.dev)
-
----
-
-## 📈 Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rut1122&theme=react-dark&area=true&hide_border=true&bg_color=0d1117" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rut1122&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=777" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rut1122&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=777" width="45%" />
-</p>
+### 🔧 Infrastructure & Tools
+<img src="https://skillicons.dev/icons?i=postman,git,github,aws,vscode,visualstudio,idea,pycharm&theme=dark" />
 
 ---
 
-## 📫 Let's Connect
-<p align="left">
-  <a href="mailto:Ruth471916@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+## 📊 Stats & Activity
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=rut1122&icon=5&color=4" alt="visit count" />
-  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=rut1122&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=777" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rut1122&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=777" />
+</div>
+
+---
+
+## 📫 Contact Me
+
+**Email:** [Ruth471916@gmail.com](mailto:Ruth471916@gmail.com)
+
+---
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=100&section=footer"/>
 </div>
