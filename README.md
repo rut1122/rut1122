@@ -1,48 +1,30 @@
-<div align="center">
+# Hi, I'm Ruth Kober 👋
 
-# `Ruth Kober`
-**Frontend Developer & QA Automation Engineer**
+### Software Practical Engineer | QA & Automation Specialist | ISTQB® Certified
 
----
-
-*"Crafting high-quality, pixel-perfect digital experiences with a focus on performance and reliability."*
-
-[LinkedIn](LINK_HERE) • [Email](mailto:EMAIL_HERE) • [Portfolio](PORTFOLIO_LINK)
+I am a detail-oriented Software Practical Engineer with a strong passion for software quality and automation. With a solid foundation in Fullstack development and a certification in ISTQB, I bridge the gap between clean code and rigorous testing.
 
 ---
 
-</div>
-
-### ⚡ Tech Stack & Expertise
+### 🛠 Languages and Tools
 
 <p align="left">
-<img src="https://img.shields.io/badge/Frontend-f4f4f4?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Backend-f4f4f4?style=flat-square&logo=node.js&logoColor=339933" />
-<img src="https://img.shields.io/badge/Testing-f4f4f4?style=flat-square&logo=selenium&logoColor=43B02A" />
-<img src="https://img.shields.io/badge/Cloud-f4f4f4?style=flat-square&logo=amazon-aws&logoColor=232F3E" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,angular,py,java,cs,dotnet,nodejs,postman,mongodb,git,aws,mysql,vscode,visualstudio,idea,pycharm&theme=light" />
+</a>
 </p>
 
-* **Languages:** JavaScript (ES6+), TypeScript, C#, Python, SQL.
-* **Frameworks:** React, Angular, .NET Core, Node.js.
-* **Tools & Quality:** Selenium, ISTQB, Git, AWS, Jira.
+---
+
+### 📊 Github Stats
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=rut1122&show_icons=true&theme=radical" alt="rut1122's github stats" />
+</p>
 
 ---
 
-### 📊 GitHub Analysis
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MichalFog&show_icons=true&theme=vincere&bg_color=ffffff&title_color=0d1117&text_color=444&icon_color=2f81f7&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichalFog&layout=compact&theme=vincere&bg_color=ffffff&title_color=0d1117&text_color=444&hide_border=true" width="45%" />
-</div>
-
----
-
-### 📂 Featured Projects
-* **Project Name** – *Brief, one-line description of a high-impact solution.*
-* **Automation Framework** – *Custom-built E2E testing suite using Selenium.*
-
-<br />
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MichalFog/MichalFog/output/snake.svg" alt="Snake animation" />
-</div>
+### 📫 Connect with me
+<p align="left">
+<a href="mailto:Ruth471916@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
