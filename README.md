@@ -1,40 +1,32 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=150&section=header&text=Ruth%20Kober&fontSize=50&animation=fadeIn&fontAlignY=35" />
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0077B5&center=true&vCenter=true&width=435&lines=QA+Automation+Engineer;Software+Practical+Engineer;Fullstack+Development;ISTQB®+Certified" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=header&text=Ruth%20Kober&fontSize=40&animation=fadeIn&fontAlignY=35" />
 </div>
 
----
+<br />
 
-## 🛠️ Languages and Tools
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="20"> Languages and Tools
 
-### 🌐 Frontend & Languages
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,py,java,cs&theme=dark" />
-
-### ⚙️ Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,dotnet,mysql,mongodb,postgres,sqlite&theme=dark" />
-
-### 🔧 Infrastructure & Tools
-<img src="https://skillicons.dev/icons?i=postman,git,github,aws,vscode,visualstudio,idea,pycharm&theme=dark" />
-
----
-
-## 📊 Stats & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rut1122&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=777" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,py,java,cs&perline=9" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rut1122&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=777" />
-</div>
+  <img src="https://skillicons.dev/icons?i=nodejs,dotnet,maven,mysql,mongodb,postgres,sqlite&perline=8" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=postman,git,github,aws,vscode,visualstudio,idea,pycharm" />
+</p>
 
 ---
 
-## 📫 Contact Me
-
-**Email:** [Ruth471916@gmail.com](mailto:Ruth471916@gmail.com)
-
----
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Github Stats
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=100&section=footer"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rut1122&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=777" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rut1122&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=777" width="45%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=rut1122&icon=5&color=4" alt="visit count" />
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=80&section=footer"/>
 </div>
