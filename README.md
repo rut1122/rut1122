@@ -1,46 +1,48 @@
 <div align="center">
 
 # `Ruth Kober`
+**Frontend Developer & QA Automation Engineer**
 
-***
+---
 
-### Full Stack Developer | Frontend Specialist | QA Automation
+*"Crafting high-quality, pixel-perfect digital experiences with a focus on performance and reliability."*
 
-*A meticulous and innovative software developer focused on crafting impactful, intuitive, and highly functional user experiences, with a strong background in QA automation and code quality.*
+[LinkedIn](LINK_HERE) • [Email](mailto:EMAIL_HERE) • [Portfolio](PORTFOLIO_LINK)
+
+---
 
 </div>
 
-***
+### ⚡ Tech Stack & Expertise
 
-## ⚙️ Core Technical Capabilities
+<p align="left">
+<img src="https://img.shields.io/badge/Frontend-f4f4f4?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Backend-f4f4f4?style=flat-square&logo=node.js&logoColor=339933" />
+<img src="https://img.shields.io/badge/Testing-f4f4f4?style=flat-square&logo=selenium&logoColor=43B02A" />
+<img src="https://img.shields.io/badge/Cloud-f4f4f4?style=flat-square&logo=amazon-aws&logoColor=232F3E" />
+</p>
 
-To maintain a clean and minimalist aesthetic, only a refined list of my primary tech stacks and tools is included. I prioritize pixel-perfect designs, performance, and clean code.
+* **Languages:** JavaScript (ES6+), TypeScript, C#, Python, SQL.
+* **Frameworks:** React, Angular, .NET Core, Node.js.
+* **Tools & Quality:** Selenium, ISTQB, Git, AWS, Jira.
 
-| Category | Skills & Tools |
-|:---|:---|
-| **Frontend & Design** | JavaScript (ES6+), TypeScript, React, Angular, HTML5, CSS3, SASS, UI/UX Principles |
-| **Backend & APIs** | Node.js, C#, .NET Core, Python, Java, RESTful APIs |
-| **Databases & Tools** | Postgres, MongoDB, SQL, NoSQL, Git, AWS, CI/CD |
-| **Testing & Quality** | ISTQB Methodologies, QA Automation, Selenium, Web Testing |
+---
 
-***
-
-## 📊 Developer Insights
+### 📊 GitHub Analysis
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=calm&bg_color=ffffff&title_color=000000&text_color=555555&icon_color=ffdd54&count_private=true" alt="Michal's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MichalFog&show_icons=true&theme=vincere&bg_color=ffffff&title_color=0d1117&text_color=444&icon_color=2f81f7&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichalFog&layout=compact&theme=vincere&bg_color=ffffff&title_color=0d1117&text_color=444&hide_border=true" width="45%" />
 </div>
+
+---
+
+### 📂 Featured Projects
+* **Project Name** – *Brief, one-line description of a high-impact solution.*
+* **Automation Framework** – *Custom-built E2E testing suite using Selenium.*
+
+<br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=calm&bg_color=ffffff&title_color=000000&text_color=555555" alt="Top Langs" />
-</div>
-
-***
-
-## ✉️ Connect and Collaborate
-
-Feel free to connect or discuss potential opportunities:
-
-* **Email:** Ruth471916@gmail.com
-
+  <img src="https://raw.githubusercontent.com/MichalFog/MichalFog/output/snake.svg" alt="Snake animation" />
 </div>
